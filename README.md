@@ -1,16 +1,14 @@
-# Microverse
+# SadSha Microverse
 
 **中文** | [English](README_EN.md)
 
+> SadSha fork of the June 2025 open demo of *Microverse In Box* by KsanaDock (MIT). Original author attribution is kept in [LICENSE](LICENSE).
+
 <div align="center">
 
-[![KsanaDock](asset/pics/KsanaDock.png)](https://www.ksanadock.com)
+**SadSha Microverse**
 
-**KsanaDock | 时空码头**
-
-帮助你轻松 DIY 自己版本的 Microverse，生成独特的 AI 世界和角色。
-
-[点击访问 www.ksanadock.com](https://www.ksanadock.com)
+帮助你轻松 DIY 自己版本的 SadSha Microverse，生成独特的 AI 世界和角色。
 
 </div>
 
@@ -96,8 +94,8 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/KsanaDock/Microverse.git
-cd microverse
+git clone https://github.com/fnjlabs-arch/Microverse.git
+cd Microverse
 ```
 
 ### 2. 打开项目
@@ -179,21 +177,13 @@ office/
 - 集成新的AI服务提供商
 - 扩展对话功能
 
-## 🎮 Steam版本即将上线
+## 🎮 关于完整版游戏
 
 <div align="center">
 
 ![Microverse In Box 盒中小世界](asset/pics/Cover.png)
 
-**《Microverse In Box 盒中小世界》即将登陆Steam平台！**
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3902630/Microverse_In_Box/)
-
-[🎯 **添加到Steam愿望单**](https://store.steampowered.com/app/3902630/Microverse_In_Box/) | [📖 **查看Steam页面**](https://store.steampowered.com/app/3902630/Microverse_In_Box/)
-
----
-
-**📝 关于本开源项目**: 本仓库开源的是《Microverse In Box》游戏在2025年6月的初版Demo，为开发者和爱好者提供学习和参考。完整版游戏将在Steam平台发布，包含更多功能、优化和内容。
+**📝 关于本开源项目**: 本仓库开源的是《Microverse In Box》游戏在2025年6月的初版Demo，为开发者和爱好者提供学习和参考。完整版游戏由原作者 KsanaDock 在 Steam 平台发布（[Steam 页面](https://store.steampowered.com/app/3902630/Microverse_In_Box/)），包含更多功能、优化和内容。
 
 </div>
 
@@ -222,16 +212,10 @@ office/
 
 ## 📞 联系方式
 
-<div align="center">
-
-![时空码头名片](asset/pics/时空码头.png)
-
-</div>
-
 如有问题或建议，请通过以下方式联系：
 
-- 提交Issue: [GitHub Issues](https://github.com/KsanaDock/Microverse/issues)
-- 官方网站: [时空码头KsanaDock](https://www.ksanadock.com)
+- 提交Issue: [GitHub Issues](https://github.com/fnjlabs-arch/Microverse/issues)
+- 上游项目（原作者）: [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse)
 
 ## 🌐 关注我们
 
@@ -239,66 +223,7 @@ office/
 
 ### 在社交媒体上关注我们的最新动态
 
-<table>
-<tr>
-<td align="center" width="200">
-<a href="https://www.xiaohongshu.com/user/profile/653c5f81000000000301f274">
-<img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/>
-<br/>
-<strong>小红书</strong>
-<br/>
-<sub>创意分享与交流</sub>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://space.bilibili.com/336052319">
-<img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
-<br/>
-<strong>哔哩哔哩</strong>
-<br/>
-<sub>中文视频内容</sub>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://github.com/KsanaDock">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<br/>
-<strong>GitHub</strong>
-<br/>
-<sub>项目源码与更新</sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<a href="https://x.com/KsanaDock">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-<br/>
-<strong>X (Twitter)</strong>
-<br/>
-<sub>最新资讯与讨论</sub>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://store.steampowered.com/app/3902630/Microverse_In_Box/">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-<br/>
-<strong>Steam</strong>
-<br/>
-<sub>游戏发布与更新</sub>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://www.youtube.com/@KsanaDock">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-<br/>
-<strong>YouTube</strong>
-<br/>
-<sub>演示视频与教程</sub>
-</a>
-</td>
-</tr>
-</table>
+上游作者 KsanaDock 的社交账号见[上游仓库](https://github.com/KsanaDock/Microverse)。本分支的问题请在 [fnjlabs-arch/Microverse](https://github.com/fnjlabs-arch/Microverse/issues) 提交。
 
 </div>
 
@@ -306,6 +231,6 @@ office/
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KsanaDock/Microverse&type=date&legend=top-left)](https://www.star-history.com/#KsanaDock/Microverse&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=fnjlabs-arch/Microverse&type=date&legend=top-left)](https://www.star-history.com/#fnjlabs-arch/Microverse&type=date&legend=top-left)
 
 **注意**: 使用本项目需要有效的AI服务API密钥。请确保遵守各AI服务提供商的使用条款和条件。

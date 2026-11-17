@@ -1,6 +1,6 @@
 # 贡献指南
 
-感谢您对Microverse项目的关注！我们欢迎所有形式的贡献，包括但不限于代码、文档、测试、反馈和建议。
+感谢您对SadSha Microverse项目的关注！我们欢迎所有形式的贡献，包括但不限于代码、文档、测试、反馈和建议。
 
 ## 🤝 如何贡献
 
@@ -8,7 +8,7 @@
 
 如果您发现了bug或有功能建议，请：
 
-1. 首先检查[现有Issues](https://github.com/KsanaDock/Microverse/issues)，确保问题尚未被报告
+1. 首先检查[现有Issues](https://github.com/fnjlabs-arch/Microverse/issues)，确保问题尚未被报告
 2. 创建新的Issue，并提供以下信息：
    - 清晰的问题描述
    - 重现步骤（如果是bug）
@@ -23,12 +23,12 @@
 1. Fork本项目到您的GitHub账户
 2. 克隆您的Fork到本地：
    ```bash
-   git clone https://github.com/KsanaDock/Microverse.git
-   cd microverse
+   git clone https://github.com/fnjlabs-arch/Microverse.git
+   cd Microverse
    ```
 3. 添加上游仓库：
    ```bash
-   git remote add upstream https://github.com/KsanaDock/Microverse.git
+   git remote add upstream https://github.com/fnjlabs-arch/Microverse.git
    ```
 
 #### 开发流程
@@ -194,7 +194,6 @@ docs: 更新API配置文档
 如果您有任何问题或需要帮助：
 
 - 创建Issue进行讨论
-- 发送邮件至：ksanadock@example.com
 - 加入我们的社区讨论
 
 ## 📄 许可证
@@ -203,4 +202,4 @@ docs: 更新API配置文档
 
 ---
 
-再次感谢您的贡献！每一个贡献都让Microverse变得更好。
+再次感谢您的贡献！每一个贡献都让SadSha Microverse变得更好。

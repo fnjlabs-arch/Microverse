@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Microverse"
+config/name="SadSha Microverse"
 run/main_scene="uid://nhba2jdtsjsx"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
@@ -35,7 +35,7 @@ display/window/dpi/allow_hidpi=true
 
 [dotnet]
 
-project/assembly_name="Microverse"
+project/assembly_name="SadShaMicroverse"
 
 [input]
 

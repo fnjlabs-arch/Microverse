@@ -1,16 +1,14 @@
-# Microverse
+# SadSha Microverse
 
 [中文](README.md) | **English**
 
+> SadSha fork of the June 2025 open demo of *Microverse In Box* by KsanaDock (MIT). Original author attribution is kept in [LICENSE](LICENSE).
+
 <div align="center">
 
-[![KsanaDock](asset/pics/KsanaDock.png)](https://www.ksanadock.com)
+**SadSha Microverse**
 
-**KsanaDock | Time Space Dock**
-
-Create Your Microverse. Generate unique AI world and characters.
-
-[Visit www.ksanadock.com](https://www.ksanadock.com)
+Create your own SadSha Microverse. Generate unique AI worlds and characters.
 
 </div>
 
@@ -98,8 +96,8 @@ A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simula
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/KsanaDock/Microverse.git
-   cd microverse
+   git clone https://github.com/fnjlabs-arch/Microverse.git
+   cd Microverse
    ```
 
 2. **Open with Godot**
@@ -179,7 +177,7 @@ The game features 8 unique AI characters, each with distinct personalities:
 
 ### Project Structure
 ```
-microverse/
+Microverse/
 ├── asset/          # Game assets (sprites, UI, etc.)
 ├── scene/          # Godot scene files
 ├── script/         # GDScript source code
@@ -201,21 +199,13 @@ microverse/
 4. Configure your API keys
 5. Run the project (F5)
 
-## 🎮 Coming Soon to Steam
+## 🎮 About the Full Game
 
 <div align="center">
 
 ![Microverse In Box](asset/pics/Cover.png)
 
-**Microverse In Box is coming to Steam!**
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3902630/Microverse_In_Box/)
-
-[🎯 **Add to Steam Wishlist**](https://store.steampowered.com/app/3902630/Microverse_In_Box/) | [📖 **View Steam Page**](https://store.steampowered.com/app/3902630/Microverse_In_Box/)
-
----
-
-**📝 About This Open Source Project**: This repository contains the open-source version of the initial demo of "Microverse In Box" from June 2025, provided for developers and enthusiasts to learn and reference. The complete version will be released on Steam with more features, optimizations, and content.
+**📝 About This Open Source Project**: This repository contains the open-source version of the initial demo of "Microverse In Box" from June 2025, provided for developers and enthusiasts to learn and reference. The complete version is published on Steam by the original author KsanaDock ([Steam page](https://store.steampowered.com/app/3902630/Microverse_In_Box/)) with more features, optimizations, and content.
 
 </div>
 
@@ -252,14 +242,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-<div align="center">
-
-![KsanaDock Business Card](asset/pics/时空码头.png)
-
-</div>
-
-- **Issues**: [GitHub Issues](https://github.com/KsanaDock/Microverse/issues)
-- **Official Website**: [KsanaDock](https://www.ksanadock.com)
+- **Issues**: [GitHub Issues](https://github.com/fnjlabs-arch/Microverse/issues)
+- **Upstream project (original author)**: [KsanaDock/Microverse](https://github.com/KsanaDock/Microverse)
 
 ## 🌐 Follow Us
 
@@ -267,66 +251,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Stay updated with our latest developments on social media
 
-<table>
-<tr>
-<td align="center" width="200">
-<a href="https://www.xiaohongshu.com/user/profile/653c5f81000000000301f274">
-<img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/>
-<br/>
-<strong>Xiaohongshu</strong>
-<br/>
-<sub>Creative Sharing & Community</sub>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://space.bilibili.com/336052319">
-<img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
-<br/>
-<strong>Bilibili</strong>
-<br/>
-<sub>Chinese Video Content</sub>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://github.com/KsanaDock">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<br/>
-<strong>GitHub</strong>
-<br/>
-<sub>Source Code & Updates</sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<a href="https://x.com/KsanaDock">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-<br/>
-<strong>X (Twitter)</strong>
-<br/>
-<sub>Latest News & Discussion</sub>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://store.steampowered.com/app/3902630/Microverse_In_Box/">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-<br/>
-<strong>Steam</strong>
-<br/>
-<sub>Game Releases & Updates</sub>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://www.youtube.com/@KsanaDock">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-<br/>
-<strong>YouTube</strong>
-<br/>
-<sub>Demo Videos & Tutorials</sub>
-</a>
-</td>
-</tr>
-</table>
+The upstream author KsanaDock's social accounts are linked from the [upstream repository](https://github.com/KsanaDock/Microverse). Please report issues with this fork at [fnjlabs-arch/Microverse](https://github.com/fnjlabs-arch/Microverse/issues).
 
 </div>
 
@@ -334,6 +259,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KsanaDock/Microverse&type=date&legend=top-left)](https://www.star-history.com/#KsanaDock/Microverse&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=fnjlabs-arch/Microverse&type=date&legend=top-left)](https://www.star-history.com/#fnjlabs-arch/Microverse&type=date&legend=top-left)
 
-**Microverse** - Where AI characters come to life in a sandbox social simulation! 🌟
+**SadSha Microverse** - Where AI characters come to life in a sandbox social simulation! 🌟
